@@ -1,0 +1,15 @@
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\bin\Debug\login.exe.config
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\bin\Debug\login.exe
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\bin\Debug\login.pdb
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\obj\Debug\login.csproj.AssemblyReference.cache
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\obj\Debug\login.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\obj\Debug\login.Form1.resources
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\obj\Debug\login.Properties.Resources.resources
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\obj\Debug\login.csproj.GenerateResource.cache
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\obj\Debug\login.exe
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\obj\Debug\login.pdb
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\LOGIN\bin\Debug\MetroFramework.dll
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\LOGIN\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\LOGIN\obj\Debug\login.csproj.CopyComplete
+C:\Users\LEO\OneDrive\Escritorio\programacion\programacion moron\introduccion a la programacion\login\obj\Debug\login.Form2.resources
